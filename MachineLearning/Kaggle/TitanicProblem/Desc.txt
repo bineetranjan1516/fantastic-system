@@ -1,0 +1,3 @@
+## Python code for titanic problem.
+
+## visit https://www.kaggle.com/bineetranjan/titanic-problem-my-first-kaggle/
